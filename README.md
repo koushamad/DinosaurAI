@@ -1,3 +1,3 @@
 # Dinosaur AI
 
-![caption](image/MyDino.gif / GIF)
+![caption](https://github.com/koushamad/DinosaurAI/blob/main/image/MyDino.gif / GIF)
